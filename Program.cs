@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheaterLibrary.UnitTests
+namespace task13
 {
     internal class Program
     {
